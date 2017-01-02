@@ -1,0 +1,22 @@
+{
+  "name": "captcha-breaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chr0nu5/captcha-breaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chr0nu5/captcha-breaker/issues"
+  },
+  "homepage": "https://github.com/chr0nu5/captcha-breaker#readme",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
